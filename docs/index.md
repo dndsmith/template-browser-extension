@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Template Browser Extension
+# Template Browser Extension 
 
 A template browser extension. This designed to be a quick way to setup a browser extension, which can be used by loading locally or publishing the the Chrome Web Store or Firefox Add-ons store.
 
