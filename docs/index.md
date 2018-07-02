@@ -72,5 +72,5 @@ extension
 The following pages were helpful when creating a web extension.
 
 - [What are extensions? - Google Chrome](https://developer.chrome.com/extensions)
-- [Anatomy of an extension - Mozilla | MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension)
-- [Your first extension - Mozilla | MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
+- [Anatomy of an extension - Mozilla MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension)
+- [Your first extension - Mozilla MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
