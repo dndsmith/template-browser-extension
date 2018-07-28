@@ -29,7 +29,7 @@ Read my post on Medium that explains more about how to create a browser extensio
 
 The extension can then be viewed by clicking the icon in the address bar.
 
-<img src="images/template-browser-extension.png" width="400" border="3" style="border-radius: 10px;">
+<img src="images/template-browser-extension-screenshot.png" width="400" border="3" style="border-radius: 10px;">
 
 ### Files to edit to create your extension
 
