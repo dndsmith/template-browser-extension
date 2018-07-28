@@ -29,8 +29,6 @@ Read my post on Medium that explains more about how to create a browser extensio
 
 The extension can then be viewed by clicking the icon in the address bar.
 
-![screenshot](images/template-browser-extension-screenshot.png)
-
 ### Files to edit to create your extension
 
 The extension project structure looks like this:
@@ -68,5 +66,5 @@ extension
 The following pages were helpful when creating a web extension.
 
 - [What are extensions? - Google Chrome](https://developer.chrome.com/extensions)
-- [Anatomy of an extension - Mozilla | MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension)
-- [Your first extension - Mozilla | MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
+- [Anatomy of an extension - Mozilla MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Anatomy_of_a_WebExtension)
+- [Your first extension - Mozilla MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension)
