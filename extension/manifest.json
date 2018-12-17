@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Template Browser Extension",
+  "author": "Web Developer",
   "description": "Template Browser Extension",
   "homepage_url": "https://github.com/ryanwhocodes/template-browser-extension",
   "version": "0.0.1",
